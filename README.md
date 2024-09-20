@@ -1,5 +1,5 @@
 # ai-webscraping
-This code is running ollama llm using model llama3.1
+This code is running [Ollama](https://ollama.com/) llm using model llama3.1
 
 Please download and install ollama and the model in your machine before running the script
 
