@@ -22,7 +22,11 @@ source .venv/bin/activate
 ```
 
 ## Installing dependencies with requirements.txt
+```bash
 pip install -r requirements.txt
+```
 
 ## Run streamlit
+```bash
 streamlit main.py
+```
